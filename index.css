@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: 'Cinzel', serif;
+    background: rgb(183, 176, 158)
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  main {
+    padding: 2rem;
+    color: #5d1010;
+  }
+  .top-center {
+    text-align: center;
+    margin-top: 0; /* Ensure it stays at the top */
+    padding: 20px 0; /* Add some padding around the text */
+  }

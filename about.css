@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Grande';
+    background: url('images/1.jpg') no-repeat center/cover; /*1.jpg*/
+  }
+  
+  header {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black */
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  main {
+    padding: 2rem;
+    color: #000000;
+  }
